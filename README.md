@@ -129,12 +129,6 @@ Fingerprint_Recognition/
         └── Real/
 ```
 
----
 
-## ✅ Future Improvements
-
-* Add support for **multi-task learning** (joint ID + finger prediction).
-* Improve model generalization on **heavily altered fingerprints**.
-* Integrate a **web-based demo** for real-time predictions.
 
 
